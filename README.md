@@ -8,6 +8,8 @@ O botão **Centro** retorna a torneira à posição central de 90 graus.
 
 O circuito conta com o **Sleep Mode** do Arduíno, e para este funcionamento adicional é utilizado o pino D2 para uma interrupção externa. 
 
+Código pode ser praticamente todo configurado através dos **#define**s no início do código.
+
 ## Hardware:
 
 - 1 Arduino Nano
