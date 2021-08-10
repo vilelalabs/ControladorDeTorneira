@@ -1,4 +1,4 @@
-# Controlador Fluxo de Torneira 180 graus.
+# Controlador Fluxo de Torneira 180°
 
 Projeto para resolução de um problema particular... uma torneira com o controle de fluxo "frouxo" que será controlado através de três botões.
 
