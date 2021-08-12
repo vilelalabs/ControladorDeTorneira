@@ -25,6 +25,8 @@ Código pode ser praticamente todo configurado através dos **#define**s no iní
 -   Baixo D6
 
 ## Circuito
-*em breve...*
+
+![Circuito](ControleTorneiraCircuito.png)
+
 ## Fotos
 *em breve...*
