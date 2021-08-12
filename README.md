@@ -25,8 +25,18 @@ Código pode ser praticamente todo configurado através dos **#define**s no iní
 -   Baixo D6
 
 ## Circuito
-
+ *Obs: o circuito original é feito com o Arduino NANO, mas a pinagem é a mesma.*
 ![Circuito](ControleTorneiraCircuito.png)
 
 ## Fotos
-*em breve...*
+![Placa frente](placaFrente.jpg)
+![placa verso](placaVerso.jpg)
+![pronto](pronto.jpg)
+
+## Demonstração da economia de energia com o modo Sleep
+- Por volta de 60mA em funcionamento
+- Por volta de 8ma a 10ma quando entra em sleep
+- Por volta de 5ma em modo sleep_cpu (retirando o led de indicação de energia (vermelho) do arduíno).
+- *com o led de indicação a corrente ficaria por volta dos 8mA*
+![sleep demo](correnteSleepMode.gif)
+
